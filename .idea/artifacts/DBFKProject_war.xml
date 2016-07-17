@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DBFKProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jdbfk.war">
+      <element id="artifact" artifact-name="DBFKProject:war exploded" />
+    </root>
+  </artifact>
+</component>
